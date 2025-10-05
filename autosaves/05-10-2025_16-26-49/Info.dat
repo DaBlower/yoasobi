@@ -1,0 +1,50 @@
+{
+  "version" : "4.0.1",
+  "song" : {
+    "title" : "劇上",
+    "subTitle" : "",
+    "author" : "YOASOBI"
+  },
+  "audio" : {
+    "songFilename" : "song.ogg",
+    "songDuration" : 201.092,
+    "audioDataFilename" : "AudioData.dat",
+    "bpm" : 134,
+    "lufs" : 0,
+    "previewStartTime" : 17,
+    "previewDuration" : 15
+  },
+  "songPreviewFilename" : "song.ogg",
+  "coverImageFilename" : "cover.jpg",
+  "environmentNames" : [
+    "DefaultEnvironment"
+  ],
+  "colorSchemes" : [
+  ],
+  "difficultyBeatmaps" : [
+    {
+      "characteristic" : "Standard",
+      "difficulty" : "Normal",
+      "beatmapAuthors" : {
+        "mappers" : [
+        ],
+        "lighters" : [
+        ]
+      },
+      "environmentNameIdx" : 0,
+      "beatmapColorSchemeIdx" : 0,
+      "noteJumpMovementSpeed" : 10,
+      "noteJumpStartBeatOffset" : 0,
+      "beatmapDataFilename" : "NormalStandard.dat",
+      "lightshowDataFilename" : "Lightshow.dat"
+    }
+  ],
+  "customData" : {
+    "editors" : {
+      "lastEditedBy" : "ChroMapper",
+      "ChroMapper" : {
+        "version" : "0.13.892"
+      }
+    }
+  }
+}

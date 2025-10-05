@@ -33,16 +33,6 @@
       "beat" : 135,
       "label" : "Chorus",
       "text" : "Chorus"
-    },
-    {
-      "beat" : 214,
-      "label" : "Verse 2",
-      "text" : "Verse 2"
-    },
-    {
-      "beat" : 263,
-      "label" : "Interlude",
-      "text" : "Interlude"
     }
   ]
 }
