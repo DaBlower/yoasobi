@@ -10,19 +10,9 @@
       "text" : "Start"
     },
     {
-      "beat" : 23,
-      "label" : "Intro 1",
-      "text" : "Intro 1"
-    },
-    {
-      "beat" : 38,
-      "label" : "Intro 2",
-      "text" : "Intro 2"
-    },
-    {
-      "beat" : 54,
-      "label" : "Intro 3",
-      "text" : "Intro 3"
+      "beat" : 22,
+      "label" : "Verse 1",
+      "text" : "Verse 1"
     },
     {
       "beat" : 102,
@@ -43,6 +33,21 @@
       "beat" : 263,
       "label" : "Interlude",
       "text" : "Interlude"
+    },
+    {
+      "beat" : 290,
+      "label" : "Bridge",
+      "text" : "Bridge"
+    },
+    {
+      "beat" : 322,
+      "label" : "Chorus",
+      "text" : "Chorus"
+    },
+    {
+      "beat" : 394,
+      "label" : "Outro",
+      "text" : "Outro"
     }
   ]
 }

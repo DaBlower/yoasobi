@@ -11,8 +11,8 @@
     "audioDataFilename" : "AudioData.dat",
     "bpm" : 134,
     "lufs" : 0,
-    "previewStartTime" : 17,
-    "previewDuration" : 15
+    "previewStartTime" : 60.15,
+    "previewDuration" : 17
   },
   "songPreviewFilename" : "song.ogg",
   "coverImageFilename" : "cover.jpg",
