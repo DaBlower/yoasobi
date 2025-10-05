@@ -1,0 +1,58 @@
+{
+  "name" : "ChroMapper",
+  "characteristic" : "Standard",
+  "difficulty" : "Normal",
+  "color" : "00FFFF",
+  "bookmarks" : [
+    {
+      "beat" : 5.5,
+      "label" : "Start",
+      "text" : "Start"
+    },
+    {
+      "beat" : 22,
+      "label" : "Verse 1",
+      "text" : "Verse 1"
+    },
+    {
+      "beat" : 54.25,
+      "label" : "Verse 1 part 2",
+      "text" : "Verse 1 part 2"
+    },
+    {
+      "beat" : 102,
+      "label" : "Pre-chorus",
+      "text" : "Pre-chorus"
+    },
+    {
+      "beat" : 135,
+      "label" : "Chorus",
+      "text" : "Chorus"
+    },
+    {
+      "beat" : 214,
+      "label" : "Verse 2",
+      "text" : "Verse 2"
+    },
+    {
+      "beat" : 263,
+      "label" : "Interlude",
+      "text" : "Interlude"
+    },
+    {
+      "beat" : 290,
+      "label" : "Bridge",
+      "text" : "Bridge"
+    },
+    {
+      "beat" : 322,
+      "label" : "Chorus",
+      "text" : "Chorus"
+    },
+    {
+      "beat" : 394,
+      "label" : "Outro",
+      "text" : "Outro"
+    }
+  ]
+}
